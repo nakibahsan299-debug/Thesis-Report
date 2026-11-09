@@ -6,7 +6,7 @@ Undergraduate thesis project, B.Sc. in Computer Science and Engineering
 - **Author:** Nakib Ahsan
 - **Supervisor:** Abdul Aziz
 - **Year:** 2025
-- **Full report:** [`thesis_report.pdf`]([./thesis_report.pdf](https://drive.google.com/file/d/1cT2LA3cioCJJ1c_ERlLSmYHqf4Cejx5C/view?usp=sharing))
+- **Full report:** [`thesis_report.pdf`](https://drive.google.com/file/d/1cT2LA3cioCJJ1c_ERlLSmYHqf4Cejx5C/view?usp=sharing)
 
 ---
 
