@@ -4,9 +4,9 @@ Undergraduate thesis project, B.Sc. in Computer Science and Engineering
 **Khulna University of Engineering & Technology (KUET), Bangladesh**
 
 - **Author:** Nakib Ahsan
-- **Supervisor:** [Supervisor name, designation]
-- **Year:** [Year]
-- **Full report:** [`thesis_report.pdf`](./thesis_report.pdf)
+- **Supervisor:** Abdul Aziz
+- **Year:** 2025
+- **Full report:** [`thesis_report.pdf`]([./thesis_report.pdf](https://drive.google.com/file/d/1cT2LA3cioCJJ1c_ERlLSmYHqf4Cejx5C/view?usp=sharing))
 
 ---
 
